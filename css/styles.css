@@ -85,10 +85,6 @@ button {
     cursor: pointer;
 }
 
-.hidden {
-    display: none;
-}
-
 .header-two {
     color: #2E2F42;
     font-size: 36px;
